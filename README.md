@@ -1,16 +1,3 @@
-# todo
+![WhatsApp Görsel 2024-03-17 saat 18 19 07_79aa1d87](https://github.com/SevimBusraGul78/ToDoApp/assets/116757374/e4a0384f-03c0-4205-92e6-fe4c07d81fd2)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Görsel 2024-03-17 saat 18 19 36_255e3566](https://github.com/SevimBusraGul78/ToDoApp/assets/116757374/b77bbcab-c93e-48c8-adcc-2420c92e2feb)
